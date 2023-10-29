@@ -26,23 +26,23 @@ Print the root note class and whether the chord is major or minor.
 
 ### Examples
 
-Input: 0 4 7
-Output: A major
+`Input: 0 4 7`
+`Output: A major`
 
-Input: 1 5 8
-Output: A# major
+`Input: 1 5 8`
+`Output: A# major`
 
-Input: 0 3 7
-Output: A minor
+`Input: 0 3 7`
+`Output: A minor`
 
-Input: 1 4 8
-Output: A# minor
+`Input: 1 4 8`
+`Output: A# minor`
 
-Input: 11 2 6
-Output: G# major
+`Input: 11 2 6`
+`Output: G# major`
 
-Input: 23 2 6
-Output: G# major
+`Input: 23 2 6`
+`Output: G# major`
 
-Input: 21 40 49
-Output: F# minor
+`Input: 21 40 49`
+`Output: F# minor`
