@@ -4,6 +4,8 @@ You are a student at a university that combines music and technology. As part of
 
 Write a program that, given a set of three musical notes, determines the root note and whether the chord is major or minor. Inputs **ONLY** contain either a major or a minor chord. Inputs are not necessarily in root inversion, and they can span multiple octaves.
 
+![Keyboard Image](keyboard.jpg)
+
 ## Context
 
 The smallest musical unit is a semi-tone. A musical interval measures the number of semi-tones between any two notes. A (triad) chord contains a root note, a major third (3 semi-tones) or minor third (4 semi-tones), and a fifth (seven semi-tones).
